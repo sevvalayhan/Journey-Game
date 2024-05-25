@@ -1,0 +1,55 @@
+[
+  {
+    "DialogueTexts": [
+      "Merhaba İpek, benim İsmim Tom. Macera Adası'na hoş geldin."      
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  },
+  {
+    "DialogueTexts": [
+      "Merhaba Tom. Şimdi ne yapmam gerekiyor bana yardım eder misin?"      
+    ],
+    "name": "İpek",
+    "FaceSpriteIndex":1
+  }, {
+    "DialogueTexts": [
+      "Macera Adası'nın en korkunç canavarı olan Tiger'den kurtulabilmek için senin yardımına ihtiyacımız var.",
+      "Tabiki onu yalnızca sen yenebilirsin."      
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":1
+  }, {
+    "DialogueTexts": [
+      "Sizin için elimden geleni yapacağım Tom",
+      "Size yardım etmek için buradayım"      
+    ],
+    "name": "İpek",
+    "FaceSpriteIndex":1
+  },
+   {
+    "DialogueTexts": [
+      "Tiger'in mağarasına ulaşabilmen için adadaki anahtarları da bulman gerekiyor.",
+      "O anahtarlar Macera Adası'nın en zor yerlerinde saklı ve şifreli sorular içeriyorlar."
+       
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  }, {
+    "DialogueTexts": [
+      "Peki o soruları çözebilmem için bana yardım edecek misin? "       
+    ],
+    "name": "İpek",
+    "FaceSpriteIndex":1
+  }, {
+    "DialogueTexts": [
+      "Adanın belli bölgelerinde ipucu mektupları olacak.",
+      "Bu mektupları bulup içindeki ipucunu iyice aklında tutmalısın",
+      "Ben de bazen sana yardım etmek için geleceğim. Merak etme.",
+      "Şimdilik hoşçakal İpek. Yolun açık olsun"
+       
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  }
+]

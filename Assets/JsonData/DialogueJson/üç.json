@@ -1,0 +1,36 @@
+[
+  {
+    "DialogueTexts": [
+      "Bu aşamadan sonra sana özel verilen özel güçleri kullanabilirsin İpek"       
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  },{
+    "DialogueTexts": [
+      "Bu özel güçleri kullanarak, aşılmaz engelleri aşabilirsin"    
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  },  {
+    "DialogueTexts": [
+     
+      "Düşmanlarına karşı savaşabilirsin"    
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  } ,
+  {
+    "DialogueTexts": [        
+      "Ve kilitli kapıları açabilirsin"
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  }  ,
+  {
+    "DialogueTexts": [   
+      "İyi şanslar"  
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  } 
+]

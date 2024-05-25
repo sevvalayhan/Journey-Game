@@ -1,0 +1,16 @@
+[
+  {
+    "DialogueTexts": [
+      "Önce aşağı tuşuna ardından zıplama tuşuna basmalısın İpek."
+    ],
+    "name": "Tom",
+    "FaceSpriteIndex":0
+  },
+  {
+    "DialogueTexts": [
+      "Teşekkür ederim Tom."
+    ],
+    "name": "İpek",
+    "FaceSpriteIndex":1
+  }
+]

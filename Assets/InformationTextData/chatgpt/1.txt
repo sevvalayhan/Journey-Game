@@ -1,0 +1,50 @@
+[
+  {    
+    "QuestionText": "Aşağıdakilerden hangisi doğrudur 1?",
+    "Answers": [
+      "A1",
+      "B1"  ,
+      "C1"
+    ],
+    "RightAnswerIndex":0
+  },
+  {
+    
+    "QuestionText": "Aşağıdakilerden hangisi yanlıştır 2?",
+    "Answers": [
+      "A2",
+      "B2"  ,
+      "C2"
+    ],
+    "RightAnswers":0
+  },
+  {
+    
+    "QuestionText": "Aşağıdakilerden hangisi doğrudur 3?",
+    "Answers": [
+      "A3",
+      "B3"  ,
+      "C3"
+    ],
+    "RightAnswerIndex":0
+  },
+  {
+    
+    "QuestionText": "Aşağıdakilerden hangisi doğrudur 4?",
+    "Answers": [
+      "A4",
+      "B4"  ,
+      "C4"
+    ],
+    "RightAnswerIndex":0
+  }
+]
+
+Bu formata uyarak. Her bir sorunun doğru cevabının indeks numarasını belirterek, Samsun ile ilgili beş soru için JSON verisi hazırlar mısın?
+
+ 
+Answers içerisindeki doğru cevap verisinin indexi, RightAnswerIndex değeri ile aynı olmalıdır. 
+Bununla birlikte, Answers verileri içindeki doğru cevabı farklı farklı indexlerde verelim ki,  
+her sorunun RightAnswerIndex değeri faklı olabilsin. 
+Answers içerisindeki doğru cevap  verisinin indexi ile RightAnswerIndex değerinin aynı olmasına dikkat et lütfen.
+Kaliteli ve orijinal sorular bekliyorum.
